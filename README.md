@@ -1,6 +1,7 @@
 # fix-network
 fix network for windows in cmd, it can use when you develop your website.
 
+Normal:
 ```cmd
 ipconfig /release
 ipconfig /renew
