@@ -20,7 +20,7 @@ ipconfig /flushdns
 arp -d *
 nbtstat -R
 nbtstat -RR
-rem ipconfig /registerdns
+ipconfig /registerdns
 echo please wait for wifi reconnect(1~2 min)
 echo please wait for dns resolve (uhh..maybe 15min?)
 echo please in browser press ctrl+f5 force refresh
