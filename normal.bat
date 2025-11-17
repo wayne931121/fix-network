@@ -12,4 +12,10 @@ echo   3. use private page.
 
 echo please in browser press ctrl+f5 force refresh
 
+echo still not work?
+echo it may cause by ddos protect
+echo to deal with it, there is a few way:
+echo 1. wait... maybe 15mins
+echo 2. switch ip, like vpn and so on.
+
 pause
